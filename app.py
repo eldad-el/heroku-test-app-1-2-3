@@ -7,7 +7,7 @@ def index():
 
 @app.route('home/')
 def homepage():
-    return "<h1>homepage</h1>"
+    return "<h1>homepage2</h1>"
 
 if __name__ == '__main__':
     app.run(threaded=True, port=5000)
