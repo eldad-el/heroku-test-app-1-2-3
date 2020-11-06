@@ -5,7 +5,7 @@ app = Flask(__name__)
 def index():
     return "<h1>Welcome to our server !!</h1>"
 
-@app.route('home/')
+@app.route('/home/')
 def homepage():
     return "<h1>homepage2</h1>"
 
