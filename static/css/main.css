@@ -5,9 +5,8 @@ body {
     background-repeat: no-repeat;
 }
 
-div {
+a {
     color: blue;
-    background-color: blue;
 }
 
 #contain {
