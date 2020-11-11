@@ -162,6 +162,7 @@ table {
 
 tr, th, td {
     border: 1px solid #202020;
+    color: blue;
 }
 
 tr {
@@ -258,10 +259,6 @@ hr {
     height: 5px;
     background-color: #e5e6e8;
     border: none;
-}
-
-a.link {
-    color: blue;
 }
 
 .form-buy {
