@@ -5,6 +5,10 @@ body {
     background-repeat: no-repeat;
 }
 
+div, a {
+    color: blue;
+}
+
 #contain {
     width: 100%;
 }
