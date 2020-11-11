@@ -260,6 +260,10 @@ hr {
     border: none;
 }
 
+link {
+    color: blue;
+}
+
 .form-buy {
     text-align: center;
 }
